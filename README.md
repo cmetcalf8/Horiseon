@@ -1,7 +1,7 @@
 # Horiseon Refactor
 
 ## Description
-Refactor code 
+Refactor code using semantic html elements. Follow a logical html structure and make the website accessible through alt attributes. Heading attributes fall in sequential order and the title element is concise and descriptive.
 
 ## Credits
 Cory Metcalf
